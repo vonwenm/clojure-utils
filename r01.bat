@@ -1,1 +1,1 @@
-java -cp C:\Users\Marcelle\git\lab\clojure\ClUtils\target\clojure-utils-0.5.0.jar;C:\Users\Marcelle\git\lab\clojure\ClUtils\target\TestClasses.jar;C:\Users\Marcelle\git\lab\clojure\ClUtils\target\clojure-1.6.0.jar  mikera.cljutils.DemoApp
+java -cp C:\Users\Marcelle\git\lab\clojure\ClUtils\target\TestClasses.jar;C:\Users\Marcelle\git\lab\clojure\ClUtils\target\clojure-utils-0.5.0.jar;C:\Users\Marcelle\git\lab\clojure\ClUtils\lib\clojure-1.6.0.jar;C:\Users\Marcelle\git\lab\clojure\ClUtils\lib\cljunit-0.3.0.jar  mikera.cljutils.DemoApp
